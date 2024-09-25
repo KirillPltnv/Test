@@ -1,0 +1,20 @@
+{
+    "email": "verarodkina1999@yandex.ru",
+    "password": "Verochka2015!",
+    "company": "skypro",
+    "user_name": "Вера",
+    "company_id": "327334d3-a228-4161-82f1-95afc73769a9",
+    "api_key": "garmm2l0FLdOFpt2N202kBCj8tbuheIO+TMOgzo94E9MPRyXVqSJHcOcuObHq0ts",
+    "role_admin": "admin",
+    "project_title": "Новый проект",
+    "bg_active_color": "rgba(63, 139, 253, 1)",
+    "completed_task_title_color": "rgba(177, 186, 205, 1)",
+    "new_column_color": 16,
+    "error_description_empty_project_title": "title should not be empty",
+    "error_bad_request": "Bad Request",
+    "error_description_unauth": "Unauthorized",
+    "error_unauth": "Unauthorized",
+    "error_connection": "Невозможно получить ответ от сервера, проверьте подключение к интернету.",
+    "task_title": "Диплом",
+    "new_column_title": "Обновленное название"
+  }
