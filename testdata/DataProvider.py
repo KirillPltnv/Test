@@ -1,6 +1,6 @@
 import json
 
-my_file = open('test_data.json')
+my_file = open('C:\\Users\\kiril\\Desktop\\Diplom-repoz\\test_data.json')
 global_data = json.load(my_file)
         
 class DataProvider:

@@ -1,0 +1,6 @@
+New project10449
+10
+<Response [201]>
+{'title': 'New project10449', 'timestamp': 1727535782262, 'id': 'be45b769-6932-4f50-ac85-468c18a90da9'}
+{'status': 201, 'id': 'be45b769-6932-4f50-ac85-468c18a90da9'}
+Thats all

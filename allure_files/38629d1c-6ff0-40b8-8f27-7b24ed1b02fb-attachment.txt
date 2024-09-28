@@ -1,0 +1,6 @@
+New project73926
+12
+<Response [201]>
+{'title': 'New project73926', 'timestamp': 1727535804420, 'id': 'c0b4848b-67f4-4c75-9a10-a0922c1c2e3c'}
+{'status': 201, 'id': 'c0b4848b-67f4-4c75-9a10-a0922c1c2e3c'}
+Thats all

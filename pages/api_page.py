@@ -9,12 +9,21 @@ from testdata.DataProvider import DataProvider
 
 
 class APITest:
+
+    #принимает то что там передают, когда вызывают в конце метода этот класс тестов
+    def create_project_info_dicts(self, some_inf):
+        info = {'status': None, 'id': None}
+        info['status'] = some_inf['status']
+        info['id'] = some_inf['id']
+        print(info)
+
+
     
     def create_project(
         self,
         project_api: ProjectApi, 
-        test_data: DataProvider, 
-        delete_utility_project: dict, 
+        test_data: DataProvider,
+        delete_utility_project: dict,
     ):
        
         project_title = test_data.get('project_title') + str(random.randint(0, 99999))

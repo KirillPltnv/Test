@@ -7,7 +7,7 @@ from api_client.ProjectApi import ProjectApi
 from api_client.BoardApi import BoardApi
 from api_client.ColumnApi import ColumnApi
 from testdata.DataProvider import DataProvider
-from pages.api_page import APITest 
+#from pages.api_page import APITest
 
 @allure.epic('Тестирование функционала REST API сервиса YouGile')
 @allure.severity(allure.severity_level.BLOCKER)
